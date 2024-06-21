@@ -1,58 +1,58 @@
 {
     "sensor001": {
-        "Nivel de agua (cm)": 10,
+        "Nivel de agua (cm)": -50,
         "Alagamento local": false,
         "Vazao (m³/s)": 0.212057
     },
     "sensor002": {
-        "Nivel de agua (cm)": 10,
-        "Alagamento local": false,
-        "Vazao (m³/s)": 0.212057
+        "Nivel de agua (cm)": 5,
+        "Alagamento local": true,
+        "Vazao (m³/s)": 0.0017
     },
     "sensor003": {
-        "Nivel de agua (cm)": 10,
-        "Alagamento local": false,
-        "Vazao (m³/s)": 0.212057
+        "Nivel de agua (cm)": 3,
+        "Alagamento local": true,
+        "Vazao (m³/s)": 0.0210
     },
     "sensor004": {
-        "Nivel de agua (cm)": 10,
+        "Nivel de agua (cm)": -10,
         "Alagamento local": false,
         "Vazao (m³/s)": 0.212057
     },
     "sensor005": {
-        "Nivel de agua (cm)": 10,
+        "Nivel de agua (cm)": -10,
         "Alagamento local": false,
         "Vazao (m³/s)": 0.212057
     },
     "sensor006": {
-        "Nivel de agua (cm)": 10,
+        "Nivel de agua (cm)": -10,
         "Alagamento local": false,
         "Vazao (m³/s)": 0.212057
     },
     "sensor007": {
-        "Nivel de agua (cm)": 10,
-        "Alagamento local": false,
+        "Nivel de agua (cm)": 6,
+        "Alagamento local": true,
         "Vazao (m³/s)": 0.212057
     },
     "sensor008": {
-        "Nivel de agua (cm)": 10,
+        "Nivel de agua (cm)": -10,
         "Alagamento local": false,
         "Vazao (m³/s)": 0.212057
     },
     "sensor009": {
-        "Nivel de agua (cm)": 10,
-        "Alagamento local": false,
-        "Vazao (m³/s)": 0.212057
+        "Nivel de agua (cm)": 5,
+        "Alagamento local": true,
+        "Vazao (m³/s)": 0.0017
     },
     "sensor010": {
-        "Nivel de agua (cm)": 10,
-        "Alagamento local": false,
-        "Vazao (m³/s)": 0.212057
+        "Nivel de agua (cm)": 5,
+        "Alagamento local": true,
+        "Vazao (m³/s)": 0.0017
     },
     "sensor011": {
-        "Nivel de agua (cm)": 10,
-        "Alagamento local": false,
-        "Vazao (m³/s)": 0.212057
+        "Nivel de agua (cm)": 5,
+        "Alagamento local": true,
+        "Vazao (m³/s)": 0.0017
     },
     "sensor012": {
         "Nivel de agua (cm)": 10,
@@ -83,5 +83,9 @@
         "Motivo": "Status de escoamento",
         "Alagamento local": false,
         "Descrição": "Aqui chove bastante, mas graças à deus (e ao DrainageTwin) água está escoando bem!"
+    }
+    ,
+    "sensor-de-chuva001": {
+        "Volume de chuva (mm/m²)": 40
     }
 }
