@@ -1,0 +1,62 @@
+{
+    "sensor001": {
+        "Nivel de agua (cm)": 10,
+        "Alagamento local": false,
+        "Vazao (m3/s)": 0.212057
+    },
+    "sensor002": {
+        "Nivel de agua (cm)": 10,
+        "Alagamento local": false,
+        "Vazao (m3/s)": 0.212057
+    },
+    "sensor003": {
+        "Nivel de agua (cm)": 10,
+        "Alagamento local": false,
+        "Vazao (m3/s)": 0.212057
+    },
+    "sensor004": {
+        "Nivel de agua (cm)": 10,
+        "Alagamento local": false,
+        "Vazao (m3/s)": 0.212057
+    },
+    "sensor005": {
+        "Nivel de agua (cm)": 10,
+        "Alagamento local": false,
+        "Vazao (m3/s)": 0.212057
+    },
+    "sensor006": {
+        "Nivel de agua (cm)": 10,
+        "Alagamento local": false,
+        "Vazao (m3/s)": 0.212057
+    },
+    "sensor007": {
+        "Nivel de agua (cm)": 10,
+        "Alagamento local": false,
+        "Vazao (m3/s)": 0.212057
+    },
+    "sensor008": {
+        "Nivel de agua (cm)": 10,
+        "Alagamento local": false,
+        "Vazao (m3/s)": 0.212057
+    },
+    "sensor009": {
+        "Nivel de agua (cm)": 10,
+        "Alagamento local": false,
+        "Vazao (m3/s)": 0.212057
+    },
+    "sensor010": {
+        "Nivel de agua (cm)": 10,
+        "Alagamento local": false,
+        "Vazao (m3/s)": 0.212057
+    },
+    "sensor011": {
+        "Nivel de agua (cm)": 10,
+        "Alagamento local": false,
+        "Vazao (m3/s)": 0.212057
+    },
+    "sensor012": {
+        "Nivel de agua (cm)": 10,
+        "Alagamento local": false,
+        "Vazao (m3/s)": 0.212057
+    }
+}
