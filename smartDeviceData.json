@@ -58,5 +58,30 @@
         "Nivel de agua (cm)": 10,
         "Alagamento local": false,
         "Vazao (m3/s)": 0.212057
+    },
+    "feedBack001": {
+        "Usuário": "Matheus Rosa",
+        "Motivo": "Alerta de alagamento",
+        "Alagamento local": true,
+        "Descrição": "Acúmulo de água na via, provocando lentidão no trânsito... Haja paciência!"
+
+    },
+    "feedBack002": {
+        "Usuário": "Jandira dos Santos",
+        "Motivo": "Acúmulo de lixo nos boeiros",
+        "Alagamento local": false,
+        "Descrição": "À bastante lixo acumulado na entrado do boeiro. Se não retirarem, vamos ficar abaixo d'água de novo... Não joguem lixo na rua POHH"
+    },
+    "feedBack003": {
+        "Usuário": "Otávio Pereira",
+        "Motivo": "Status de escoamento",
+        "Alagamento local": false,
+        "Descrição": "Aqui chove bastante, mas graças à deus (e ao DrainageTwin) água está escoando bem!"
+    },
+    "feedBack004": {
+        "Usuário": "Márcia Bhell",
+        "Motivo": "Status de escoamento",
+        "Alagamento local": false,
+        "Descrição": "Aqui chove bastante, mas graças à deus (e ao DrainageTwin) água está escoando bem!"
     }
 }
